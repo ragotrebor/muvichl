@@ -1,0 +1,5 @@
+export const GET_CATALOGS = 'GET_CATALOGS';
+export const CATALOGS_ERROR = 'CATALOGS_ERROR';
+export const GET_MOVIES = 'GET_MOVIES';
+export const MOVIES_SUCCESS = 'MOVIES_SUCCESS';
+export const MOVIES_ERROR = 'MOVIES_ERROR';
